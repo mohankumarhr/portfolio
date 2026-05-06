@@ -38,7 +38,7 @@ const IntroSection = () => {
         <div className="intro-content">
           <h1 className="intro-name">
             <span className="greeting">Hello, I'm</span>
-            <span className="name">Mohan Kumar H R</span>
+            <span className="name">Mohan Kumar H RR</span>
           </h1>
           <h2 className="intro-role">
             {displayText}
